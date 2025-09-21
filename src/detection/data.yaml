@@ -1,0 +1,4 @@
+train: ../../data/dataset/train/images
+val: ../../data/dataset/val/images
+nc: 6
+names: ['signature', 'initials', 'phone', 'date', 'aadhar', 'photo']
